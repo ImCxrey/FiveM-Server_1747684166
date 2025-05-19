@@ -9,3 +9,14 @@
 [00:15:55][ImCxrey] Config changes: server.dataPath
 [00:15:55][ImCxrey] Completed and committed server deploy.
 [00:16:01][ImCxrey] [ImCxrey] executed "STOP SERVER"
+[00:20:28][ImCxrey] [ImCxrey] executed "START SERVER"
+[00:25:00][ImCxrey] Ensured resource "playernames"
+[00:25:06][ImCxrey] Ensured resource "example-loadscreen"
+[00:25:11][ImCxrey] Ensured resource "fivem"
+[00:25:14][ImCxrey] Ensured resource "money"
+[00:25:19][ImCxrey] Ensured resource "money-fountain"
+[00:25:21][ImCxrey] Ensured resource "money-fountain-example-map"
+[00:25:23][ImCxrey] Ensured resource "ped-money-drops"
+[00:27:37][ImCxrey] Ensured resource "baseevents"
+[00:27:55][ImCxrey] Ensured resource "rconlog"
+[00:29:37][ImCxrey] [ImCxrey] executed "RESTART SERVER"

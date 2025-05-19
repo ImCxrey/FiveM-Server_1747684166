@@ -32,3 +32,149 @@
 [ citizen-server-impl] Authenticated with cfx.re Nucleus: https://imcxrey-4mvvxq.users.cfx.re/
 ║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"ImCxrey\",\"message\":\"Server shutting down (admin request).\"}"
 [      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [32000] FXServer Starting - 20/05/2025, 00:20:28       
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 25 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://imcxrey-4mvvxq.users.cfx.re/
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 146 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 259 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 134 milliseconds
+[      script:hardcap] Connecting: ImCxrey
+║             TXADMIN║ txaReportResources 
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "playernames"
+║             TXADMIN║ txaReportResources 
+[    c-scripting-core] Creating script environments for playernames
+[           resources] Started resource playernames
+[ citizen-server-impl] server thread hitch warning: timer interval of 202 milliseconds
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "example-loadscreen"
+║             TXADMIN║ txaReportResources 
+[           resources] Started resource example-loadscreen
+[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "fivem"
+║             TXADMIN║ txaReportResources 
+[           resources] Started resource fivem
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "money"
+[    c-scripting-core] Creating script environments for money
+║             TXADMIN║ txaReportResources 
+[           resources] Started resource money
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[        script:money] SCRIPT ERROR: @money/server.lua:95: No such export getPlayerId in resource cfx.re/playerData.v1alpha1
+║             ImCxrey║ ensure "money-fountain"
+║             TXADMIN║ txaReportResources 
+[    c-scripting-core] Creating script environments for money-fountain
+[           resources] Started resource money-fountain
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "money-fountain-example-map"
+║             TXADMIN║ txaReportResources 
+[           resources] Started resource money-fountain-example-map
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] server thread hitch warning: timer interval of 360 milliseconds
+║             ImCxrey║ ensure "ped-money-drops"
+║             TXADMIN║ txaReportResources 
+[    c-scripting-core] Creating script environments for ped-money-drops
+[           resources] Started resource ped-money-drops
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             TXADMIN║ txaReportResources 
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "baseevents"
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+║             TXADMIN║ txaReportResources 
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "rconlog"
+[    c-scripting-core] Creating script environments for rconlog
+[           resources] Started resource rconlog
+║             TXADMIN║ txaReportResources 
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"ImCxrey\",\"message\":\"Server restarting (admin request).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [33576] FXServer Starting - 20/05/2025, 00:29:42       
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 25 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://imcxrey-4mvvxq.users.cfx.re/
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 197 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 196 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 150 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 389 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 182 milliseconds
+[      script:hardcap] Connecting: ImCxrey
