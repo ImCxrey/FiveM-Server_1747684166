@@ -1,0 +1,11 @@
+================================================================
+======== txAdmin v8.0.1 atop fxserver 15015 Starting - 20/05/2025, 00:13:37
+================================================================
+[00:13:56][ImCxrey] created admins file
+[00:14:30][ImCxrey] Config changes: general.serverName
+[00:14:30][ImCxrey] Changing global settings via setup stepper and started Deployer.
+[00:14:32][ImCxrey] Setting recipe.
+[00:15:05][ImCxrey] Running recipe.
+[00:15:55][ImCxrey] Config changes: server.dataPath
+[00:15:55][ImCxrey] Completed and committed server deploy.
+[00:16:01][ImCxrey] [ImCxrey] executed "STOP SERVER"
