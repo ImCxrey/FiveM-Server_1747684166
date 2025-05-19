@@ -373,3 +373,5 @@ rces.
 [      script:monitor] [txAdmin] Sending resources list to txAdmin.
 ║             ImCxrey║ ensure vMenu
 [ citizen-server-impl] Couldn't find resource vMenu.
+║             TXADMIN║ txaReportResources 
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
