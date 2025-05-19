@@ -20,3 +20,5 @@
 [00:27:37][ImCxrey] Ensured resource "baseevents"
 [00:27:55][ImCxrey] Ensured resource "rconlog"
 [00:29:37][ImCxrey] [ImCxrey] executed "RESTART SERVER"
+[00:34:36][ImCxrey] Refreshed resources
+[00:34:45][ImCxrey] [ImCxrey] executed "RESTART SERVER"

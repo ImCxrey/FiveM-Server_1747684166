@@ -178,3 +178,10 @@
 [ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
 [ citizen-server-impl] server thread hitch warning: timer interval of 182 milliseconds
 [      script:hardcap] Connecting: ImCxrey
+║             ImCxrey║ refresh 
+[           resources] Scanning resources.
+║             TXADMIN║ txaReportResources 
+[           resources] Found 0 new resources, and refreshed 0/25 resources.
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"ImCxrey\",\"message\":\"Server restarting (admin request).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
