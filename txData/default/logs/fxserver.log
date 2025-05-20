@@ -377,3 +377,8 @@ rces.
 [      script:monitor] [txAdmin] Sending resources list to txAdmin.
 ║             TXADMIN║ txaReportResources 
 [      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ refresh 
+[           resources] Scanning resources.
+[           resources] Found 0 new resources, and refreshed 0/25 resources.
+║             TXADMIN║ txaReportResources 
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
