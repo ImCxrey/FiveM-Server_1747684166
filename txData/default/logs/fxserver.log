@@ -429,3 +429,43 @@ rces.
 [ citizen-server-impl] Authenticated with cfx.re Nucleus: https://imcxrey-4mvvxq.users.cfx.re/
 ║             TXADMIN║ txaReportResources 
 [      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ refresh 
+║             TXADMIN║ txaReportResources 
+[           resources] Scanning resources.
+[           resources] Found 0 new resources, and refreshed 0/25 resources.
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "redm-map-one"
+║             TXADMIN║ txaReportResources 
+[           resources] Warning: Resource redm-map-one does not support the current game (gta5).
+[ citizen-server-impl] Couldn't start resource redm-map-one.
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "redm-map-one"
+║             TXADMIN║ txaReportResources 
+[           resources] Warning: Resource redm-map-one does not support the current game (gta5).
+[ citizen-server-impl] Couldn't start resource redm-map-one.
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "redm-map-one"
+║             TXADMIN║ txaReportResources 
+[           resources] Warning: Resource redm-map-one does not support the current game (gta5).
+[ citizen-server-impl] Couldn't start resource redm-map-one.
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "redm-map-one"
+║             TXADMIN║ txaReportResources 
+[           resources] Warning: Resource redm-map-one does not support the current game (gta5).
+[ citizen-server-impl] Couldn't start resource redm-map-one.
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "redm-map-one"
+[           resources] Warning: Resource redm-map-one does not support the current game (gta5).
+[ citizen-server-impl] Couldn't start resource redm-map-one.
+║             TXADMIN║ txaReportResources 
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "redm-map-one"
+[           resources] Warning: Resource redm-map-one does not support the current game (gta5).
+[ citizen-server-impl] Couldn't start resource redm-map-one.
+║             TXADMIN║ txaReportResources 
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║             ImCxrey║ ensure "redm-map-one"
+║             TXADMIN║ txaReportResources 
+[           resources] Warning: Resource redm-map-one does not support the current game (gta5).
+[ citizen-server-impl] Couldn't start resource redm-map-one.
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
